@@ -30,7 +30,7 @@
   "sites": [
     {
       "key": "搜索┃豆瓣js",
-      "name": "♻️豆瓣┃公众号:业余打发。请使用影视最新版壳子体验新源！",
+      "name": "♻️豆瓣┃公众号:业余打发。",
       "type": 3,
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
