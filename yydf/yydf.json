@@ -5,7 +5,7 @@
     {
       "name": "♻️live",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/live.txt",
+      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -13,7 +13,7 @@
     {
       "name": "♻️TV",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/zhibo.txt",
+      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/zhibo.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -21,7 +21,7 @@
     {
       "name": "♻️MTV",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/MTV.txt",
+      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/MTV.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -32,8 +32,8 @@
       "key": "搜索┃豆瓣js",
       "name": "♻️豆瓣┃公众号:业余打发。请使用影视最新版壳子体验新源！",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/douban.js"
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
     },
     {
       "key": "應用商店",
@@ -73,7 +73,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "http://111.67.195.139/jar/pg.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/pg.jar",
       "api": "csp_Wogg",
       "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$https://wogg.xyz/"
     },
@@ -85,7 +85,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "http://111.67.195.139/jar/pg.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/pg.jar",
       "api": "csp_Wobg",
       "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://wobge.run.goorm.io"
     },
@@ -111,7 +111,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "http://111.67.195.139/bd/jar/5.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/5.jar",
       "ext": "http://111.67.195.139/yydf/lib/huohu.json"
     },
     {
@@ -145,7 +145,7 @@
       "name": "🔥短剧网[影视]_HK",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/xyq.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -318,14 +318,14 @@
       "key": "畅梦",
       "name": "♻️畅梦秒播",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/changmeng.js"
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/changmeng.js"
     },
     {
       "key": "csp_woggcli",
       "name": "♻️T4┃俊哥玩偶",
       "type": 4,
-      "jar": "http://111.67.195.139/yydf/lib/JGWO.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/JGWO.jar",
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba",
       "searchable": 1,
       "quickSearch": 1,
@@ -360,10 +360,10 @@
       "changeable": 1,
       "ext": {
         "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-        "filter": "http://111.67.195.139/yydf/lib/wogg.json",
+        "filter": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/wogg.json",
         "danmu": false
       },
-      "jar": "http://111.67.195.139/yydf/lib/danmu.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar"
     },
     {
       "key": "玩偶弹幕版",
@@ -375,10 +375,10 @@
       "changeable": 0,
       "ext": {
         "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-        "filter": "http://111.67.195.139/yydf/lib/wogg.json",
+        "filter": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/wogg.json",
         "danmu": true
       },
-      "jar": "http://111.67.195.139/yydf/lib/danmu.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar"
     },
     {
       "key": "jojo",
@@ -391,13 +391,13 @@
       "ext": {
         "danmu": true
       },
-      "jar": "http://111.67.195.139/yydf/lib/danmu.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar"
     },
     {
       "key": "jojo弹幕直连",
       "name": "♻️JOJO弹幕版|直连",
       "type": 3,
-      "jar": "http://111.67.195.139/yydf/lib/danmu.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar",
       "api": "csp_Jiohub",
       "searchable": 1,
       "filterable": 1,
@@ -414,18 +414,18 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "http://111.67.195.139/yydf/lib/danmu.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar"
     },
     {
       "key": "drpy_js_荐片",
       "name": "♻️荐片js.影视",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/荐片.js",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/荐片.js",
       "playerType": "1"
     },
     {
-      "jar": "http://111.67.195.139/yydf/lib/danmu.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar",
       "key": "csp_OK荐片",
       "name": "♻️荐片|无弹幕",
       "type": 3,
@@ -438,7 +438,7 @@
       }
     },
     {
-      "jar": "http://111.67.195.139/yydf/lib/danmu.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar",
       "key": "ok荐片弹幕版",
       "name": "♻️荐片弹幕版",
       "type": 3,
@@ -462,7 +462,7 @@
         "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
         "danmu": true
       },
-      "jar": "http://111.67.195.139/yydf/lib/danmu.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar"
     },
     {
       "key": "盘Se弹幕版",
@@ -476,7 +476,7 @@
         "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
         "danmu": true
       },
-      "jar": "http://111.67.195.139/yydf/lib/danmu.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar"
     },
     {
       "key": "找資源弹幕版",
@@ -492,7 +492,7 @@
         "password": "zhaoziyuannb",
         "danmu": true
       },
-      "jar": "http://111.67.195.139/yydf/lib/danmu.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar"
     },
     {
       "key": "七夜弹幕版",
@@ -506,7 +506,7 @@
         "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
         "danmu": true
       },
-      "jar": "http://111.67.195.139/yydf/lib/danmu.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar"
     },
     {
       "key": "盘搜弹幕版",
@@ -520,7 +520,7 @@
         "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
         "danmu": true
       },
-      "jar": "http://111.67.195.139/yydf/lib/danmu.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar"
     },
     {
       "key": "易搜弹幕版",
@@ -534,7 +534,7 @@
         "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
         "danmu": true
       },
-      "jar": "http://111.67.195.139/yydf/lib/danmu.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/danmu.jar"
     },
     {
       "key": "布雷",
@@ -554,7 +554,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-      "jar": "http://11.67.195.139/yydf/lib/xry.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xry.jar"
     },
     {
       "key": "csp_XBPQ_miniju",
@@ -774,17 +774,17 @@
       "key": "♻️dr_低端♻️",
       "name": "♻️低端(drpy)",
       "type": 3,
-      "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "searchable": 2,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://hjdhnx.github.io/dr_py/js/ddys.js"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/ddys.js"
     },
     {
       "key": "♻️dr_武享吧♻️",
       "name": "♻️武享吧(drpy)",
       "type": 3,
-      "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "searchable": 2,
       "quickSearch": 0,
       "filterable": 1,
@@ -879,33 +879,33 @@
       "key": "drpy_js_优酷1",
       "name": "♻️优酷(官源)",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/fan.jar",
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/youku.js"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/youku.js"
     },
     {
       "key": "搜狗2",
       "name": "♻️搜狗(官源)",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/fan.jar",
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/sougou.js"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/sougou.js"
     },
     {
       "key": "腾讯2",
       "name": "♻️腾讯(官源)",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/fan.jar",
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/tengxun.js"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/tengxun.js"
     },
     {
       "key": "爱奇异",
       "name": "♻️爱奇艺(官源)",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/fan.jar",
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/iqy.js"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/iqy.js"
     },
     {
       "key": "探探",
