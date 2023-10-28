@@ -49,11 +49,11 @@
       "key": "csp_Alistxy",
       "name": "🅿️Alist网盘♻️",
       "type": 3,
-      "jar": "http://111.67.195.139/yydf/lib/AListxy.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/AListxy.jar",
       "api": "csp_AListxy",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "http://111.67.195.139/yydf/lib/market.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/AListxy.json"
     },
     {
       "key": "追忆秒播",
