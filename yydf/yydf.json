@@ -1732,8 +1732,8 @@
       "key": "drpy_js_宅腐影视",
       "name": "♻️宅腐",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/宅腐影视.js",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/宅腐影视.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1
@@ -1742,11 +1742,11 @@
       "key": "drpy_js_优酷",
       "name": "♻️油库",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/youkudachang.js"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/youkudachang.js"
     },
     {
       "key": "Xinsj",
@@ -1766,7 +1766,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/HDmoli.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/HDmoli.json"
     },
     {
       "key": "VIP影视",
