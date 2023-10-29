@@ -2053,13 +2053,6 @@
       }
     },
     {
-      "key": "drpy_js_路漫漫",
-      "name": "♻️路漫漫",
-      "type": 3,
-      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/路漫漫.js"
-    },
-    {
       "key": "csp_Dm84",
       "name": "♻️动漫巴士1",
       "type": 3,
@@ -2119,29 +2112,29 @@
       "key": "nt动漫",
       "name": "♻️拿铁动漫",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/ntdm.js"
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/ntdm.js"
     },
     {
       "key": "妮可",
       "name": "♻️妮可动漫",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/妮可动漫.js"
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/妮可动漫.js"
     },
     {
       "key": "anfuns",
       "name": "♻️ANF动漫",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/anfuns.js"
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/anfuns.js"
     },
     {
       "key": "怡萱动漫",
       "name": "♻️怡萱动漫",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/怡萱.js"
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/怡萱.js"
     },
     {
       "key": "去看吧",
@@ -2151,7 +2144,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/去看吧.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/去看吧.json"
     },
     {
       "key": "维奇",
@@ -2161,7 +2154,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/维奇.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/维奇.json"
     },
     {
       "key": "吾爱英语",
@@ -2171,7 +2164,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/吾爱外语.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/吾爱外语.json"
     },
     {
       "key": "软件",
@@ -2181,7 +2174,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/软件教程.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/软件教程.json"
     },
     {
       "key": "csp_Aid",
@@ -2195,7 +2188,7 @@
         "type": "rect",
         "ratio": 3.8
       },
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/dDSz.jar;md5;510FA1663F7067BD4D40DE06097202BF"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/dDSz.jar;md5;510FA1663F7067BD4D40DE06097202BF"
     },
     {
       "key": "Excel教程",
