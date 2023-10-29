@@ -1729,16 +1729,6 @@
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/shiliu.json"
     },
     {
-      "key": "drpy_js_宅腐影视",
-      "name": "♻️宅腐",
-      "type": 3,
-      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/宅腐影视.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
       "key": "drpy_js_优酷",
       "name": "♻️油库",
       "type": 3,
@@ -1759,14 +1749,15 @@
       "ext": "https://www.6080yy3.com"
     },
     {
-      "key": "HDmoli",
+      "key": "csp_XYQHiker_魔力",
       "name": "♻️魔力高清",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/HDmoli.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/HDmoli.json",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
     },
     {
       "key": "VIP影视",
