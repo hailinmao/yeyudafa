@@ -1648,37 +1648,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_XYQHiker_COKEMV影院",
-      "name": "♻️乐乐",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/COKEMV影院.json",
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq825.jar"
-    },
-    {
-      "key": "MGT",
-      "name": "♻️芒芒",
-      "type": 3,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
-      "api": "csp_Mtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Qtv",
-      "name": "♻️鹅鹅",
-      "type": 3,
-      "api": "csp_Qtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "姐姐",
       "name": "♻️玩偶姐姐",
       "type": 3,
@@ -1704,11 +1673,11 @@
       "key": "骚火",
       "name": "♻️骚火(js)",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/saohuo.js"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/saohuo.js"
     },
     {
       "key": "saohuo",
@@ -1718,7 +1687,7 @@
       "quickSearch": 1,
       "playerType": "1",
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/xbpq.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xbpq.jar",
       "ext": {
         "分类url": "https://shdy3.com/list/{cateId}-{catePg}.html;;r1da",
         "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
