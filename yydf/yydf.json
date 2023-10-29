@@ -1648,27 +1648,6 @@
       "filterable": 1
     },
     {
-      "key": "瑞丰",
-      "name": "♻️辣辣",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v2/",
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar"
-    },
-    {
-      "key": "csp_aidi",
-      "name": "♻️迪迪",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
-    },
-    {
       "key": "csp_XYQHiker_COKEMV影院",
       "name": "♻️乐乐",
       "type": 3,
@@ -1677,14 +1656,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/COKEMV影院.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/xyq825.jar"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/COKEMV影院.json",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq825.jar"
     },
     {
       "key": "MGT",
       "name": "♻️芒芒",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/fan.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
       "api": "csp_Mtv",
       "searchable": 1,
       "quickSearch": 1,
