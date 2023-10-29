@@ -1801,28 +1801,6 @@
       "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
     },
     {
-      "key": "csp_XYQHiker_乐鱼影视",
-      "name": "♻️乐鱼",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/乐鱼影视.json",
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
-    },
-    {
-      "key": "csp_XYQHiker_疯狗影视",
-      "name": "♻️疯狗",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/疯狗影视.json",
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
-    },
-    {
       "key": "csp_XYQHiker_锐行加速影院",
       "name": "♻️锐行",
       "type": 3,
@@ -1937,8 +1915,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/奇趣影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/xyq.jar"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/奇趣影视.json",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
     },
     {
       "key": "Lezhu",
@@ -1948,8 +1926,8 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/乐猪.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/xyq.jar"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/乐猪.json",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_农民影视",
@@ -1959,8 +1937,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/农民影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/xyq.jar"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/农民影视.json",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_兄弟影视",
@@ -1970,8 +1948,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/兄弟影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/xyq.jar"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/兄弟影视.json",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_电影牛影院",
