@@ -1603,41 +1603,7 @@
         "分类url": "https://www.laimi.me/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;u0",
         "跳转播放链接": "https://data.m3u8.in/play.php?url=+link_pre*url\":\"&&\"+&from=+\"from\"*\"&&\""
       }
-    },
-    {
-      "key": "夜幕",
-      "name": "️♻️夜夜",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xbpq.jar",
-      "ext": {
-        "站名": "夜光影视",
-        "主页url": "https://www.ygpvp.com/",
-        "分类url": "https://www.ygpvp.com/vodshow/{cateId}--------{catePg}---{year}.html;;v",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-        "图片": "data-original=\"&&\"",
-        "链接": "href=\"&&\"",
-        "搜索模式": "1",
-        "搜索url": "https://www.ygpvp.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
-        "搜索二次截取": "\"list\":[&&]",
-        "搜索数组": "{&&}",
-        "搜索标题": "\"name\":\"&&\"",
-        "搜索图片": "\"pic\":\"&&\"",
-        "搜索链接": "https://www.ygpvp.com/voddetail/+\"id\":&&,+html",
-        "跳转播放链接": "https://bfq.ygpvp.com/ygbfq1/?url=+vod_class*url\":\"&&\"",
-        "二次跳转播放链接": "https://bfq.ygpvp.com/ygbfq1/API.php;post;url=+\"url\"*\"&&\"+&ac=jx",
-        "三次跳转播放链接": "\"url\"*\"&&\"",
-        "年代": "年份：&&</a>",
-        "地区": "地区：&&</a>",
-        "类型": "类型：&&</a>",
-        "导演": "导演：&&</p>",
-        "主演": "主演：&&</p>",
-        "简介": "<p>&&</p>"
-      }
-    },
+    },    
     {
       "key": "滋滋",
       "name": "♻️滋滋",
@@ -1672,60 +1638,6 @@
       }
     },
     {
-      "key": "黄黄",
-      "name": "♻️黄黄",
-      "api": "csp_AppYsV2",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-    },
-    {
-      "key": "兔兔",
-      "name": "♻️兔兔",
-      "type": 3,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": "2",
-      "filterable": 0,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-        "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-        "分类url": "https://www.zjtu.tv//vodshow-{cateId}/area/{area}/page/{catePg}/year/{year}/",
-        "图片代理": "0",
-        "标题": "title=\"&&\"[不包含:川内相亲]",
-        "嗅探词": ".m3u8#aliyundrive.net#.mp4",
-        "图片": "data-original=\"&&\"",
-        "线路数组二次截取": "class=\"swiper-wrapper\"&&</div",
-        "线路数组": "<a&&</a",
-        "线路标题": "data-from=\"&&\"",
-        "链接": "href=\"&&\"",
-        "副标题": "pack-prb hidden\">&&</span",
-        "跳转播放链接": "https://www.zjtu.tv//addons/dp/player/dp.php?key=0&from=+\"from\":\"&&\"+&id=+\"id\":\"&&\"+&api=&url=+vod_class*url\":\"&&\"",
-        "二次跳转播放链接": "\"url\"*\"&&\"",
-        "搜索url": "https://www.cupfox.app/s/{wd}",
-        "搜索模式": "1",
-        "搜索二次截取": "type=\"application/json\">&&</script>",
-        "搜索数组": "{\"te&&}[包含:追剧兔]",
-        "搜索图片": "https://www.zjtu.tv//upload/site/20230508-1/79a74119cb1bb42dabce9ab30ad9686e.png",
-        "搜索标题": "xt\":\"&&\"",
-        "搜索副标题": "\"website\":\"&&\"",
-        "搜索链接": "\"url\":\"&&\""
-      }
-    },
-    {
-      "key": "csp_AppMr",
-      "name": "♻️明明",
-      "type": 3,
-      "api": "csp_AppMr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "js 77",
       "name": "♻️酷云77",
       "type": 3,
@@ -1743,7 +1655,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v2/"
+      "ext": "http://www.miniku.cc/xgapp.php/v2/",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar"
     },
     {
       "key": "csp_aidi",
