@@ -1766,26 +1766,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/利奥影院.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/利奥影院.json"
     },
     {
       "key": "js_B站精简",
       "name": "♻️哔哩",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/B站精简.js"
-    },
-    {
-      "key": "Kuaikan",
-      "name": "♻️快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/B站精简.js"
     },
     {
       "key": "csp_XYQHiker_F7好看剧",
@@ -1795,8 +1786,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/aikanyngyuan.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/xyq.jar"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/aikanyngyuan.json",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_爱看影视",
@@ -1806,8 +1797,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/aikanyingshi.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/xyq.jar"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/aikanyingshi.json",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_乐鱼影视",
@@ -1817,8 +1808,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/乐鱼影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/xyq.jar"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/乐鱼影视.json",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_疯狗影视",
@@ -1828,8 +1819,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/疯狗影视.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/xyq.jar"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/疯狗影视.json",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_锐行加速影院",
@@ -1839,8 +1830,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/锐行加速影院.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/xyq.jar"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/锐行加速影院.json",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_秋霞影视",
@@ -1850,14 +1841,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/qiuxia.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/xyq.jar"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/qiuxia.json",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
     },
     {
       "key": "量子",
       "name": "♻️量子",
       "type": 0,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/fm0603.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fm0603.jar",
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
@@ -1902,7 +1893,7 @@
       "key": "非凡",
       "name": "♻️非凡",
       "type": 0,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/fm0603.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fm0603.jar",
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
