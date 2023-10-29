@@ -3,7 +3,7 @@
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "lives": [
         {
-            "name": "直播1",
+            "name": "live",
             "type": 0,
             "url": "./zy/live.txt",
             "playerType": 1,
@@ -12,7 +12,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "直播2",
+            "name": "tv",
             "type": 0,
             "url": "./zy/tvlive.txt",
             "playerType": 1,
@@ -89,25 +89,25 @@
             "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
         },
         {
-            "key": "csp_XYQHiker_农民影视",
+            "key": "csp_XYQHiker_农民",
             "name": "🌾农民",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/农民影视.json",
+            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/农民.json",
             "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
         },
         {
-            "key": "csp_XYQHiker_兄弟影视",
+            "key": "csp_XYQHiker_兄弟",
             "name": "👨‍👨‍👧兄弟",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/兄弟影视.json",
+            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/兄弟.json",
             "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
         },
         {
@@ -132,14 +132,14 @@
             "ext": "http://rzys.xyz"
         },
         {
-            "key": "VIP影视",
+            "key": "VIP",
             "name": "🏵VIP影院",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./lib/VIP影视.json"
+            "ext": "./lib/VIP.json"
         },
         {
             "key": "利奥影院",
@@ -259,7 +259,7 @@
             "ext": "./lib/dadagui.json"
         },
         {
-            "key": "csp_XYQHiker_秋霞影视",
+            "key": "csp_XYQHiker_秋霞",
             "name": "🐎秋霞",
             "type": 3,
             "api": "csp_XYQHiker",
@@ -278,7 +278,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "站名": "剧白白影视",
+                "站名": "剧白白",
                 "主页url": "https://m.jubaibaic.com/",
                 "简介": "mo-ptxs-0px\">&&</p>",
                 "主演": "主演:&&</li>",
