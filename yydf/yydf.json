@@ -1779,6 +1779,16 @@
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/B站精简.js"
     },
     {
+      "key": "Kuaikan",
+      "name": "♻️业余┃快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+    },
+    {
       "key": "csp_XYQHiker_F7好看剧",
       "name": "♻️好看",
       "type": 3,
