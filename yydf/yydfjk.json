@@ -70,6 +70,16 @@
       "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://wobge.run.goorm.io"
     },
     {
+            "key": "NanGua",
+            "name": "🎃南瓜|弹幕",
+            "type": 3,
+            "api": "csp_NanGua",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "null$$$1",
+            "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/pg.jar"
+   },
+    {
       "key": "csp_XBPQ_vstv",
       "name": "♻️VS短剧",
       "type": 3,
