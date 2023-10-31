@@ -5,7 +5,7 @@
         {
             "name": "直播1",
             "type": 0,
-            "url": "./zy/live.txt",
+            "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/live.txt",
             "playerType": 1,
             "ua": "okhttp/3.12.13",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -14,7 +14,7 @@
         {
             "name": "直播2",
             "type": 0,
-            "url": "./zy/tvlive.txt",
+            "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/tvlive.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -166,7 +166,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./lib/VIP影视.json"
+            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/VIP影视.json"
         },
         {
             "key": "利奥影院",
@@ -176,7 +176,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/利奥影院.json"
+            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/利奥影院.json"
         },
         {
             "key": "追忆",
@@ -283,7 +283,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./lib/dadagui.json"
+            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/dadagui.json"
         },
         {
             "key": "csp_XYQHiker_秋霞影视",
@@ -348,7 +348,7 @@
             "key": "量子",
             "name": "⌛️量子",
             "type": 0,
-            "jar": "./lib/fm商店.jar",
+            "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fm商店.jar",
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "changeable": 1,
@@ -393,7 +393,7 @@
             "key": "非凡",
             "name": "🔮非凡",
             "type": 0,
-            "jar": "./lib/fm商店.jar",
+            "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fm商店.jar",
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "changeable": 1,
@@ -433,36 +433,36 @@
             "key": "爱奇异",
             "name": "🎈爱奇艺",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/aiqiyi.js"
+            "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/aiqiyi.js"
         },
         {
             "key": "优酷",
             "name": "🏮优酷",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/youku.js"
+            "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/youku.js"
         },
         {
             "key": "腾讯",
             "name": "🔮腾讯",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/tengxun.js"
+            "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/tengxun.js"
         },
         {
             "key": "芒果",
             "name": "🥝芒果",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/mangguo.js"
+            "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/mangguo.js"
         },
         {
             "key": "搜狗",
             "name": "🎿搜狗",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/caigou.js"
+            "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/caigou.js"
         },
         {
             "key": "YiSo",
