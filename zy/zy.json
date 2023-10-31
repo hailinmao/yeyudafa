@@ -127,7 +127,7 @@
             "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
         },
         {
-            "key": "csp_XYQHiker_兄弟影视",
+            "key": "csp_XYQHiker_影视",
             "name": "👨‍👨‍👧兄弟",
             "type": 3,
             "api": "csp_XYQHiker",
@@ -159,7 +159,7 @@
             "ext": "http://rzys.xyz"
         },
         {
-            "key": "VIP影视",
+            "key": "tvp",
             "name": "🏵VIP影院",
             "type": 3,
             "api": "csp_XPath",
