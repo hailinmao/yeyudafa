@@ -24,7 +24,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🌕豆瓣 I专用",
+            "name": "🌕豆瓣 I自用",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -160,7 +160,7 @@
         },
         {
             "key": "tvp",
-            "name": "🏵VIP影院",
+            "name": "🏵VP影院",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -169,7 +169,7 @@
             "ext": "./lib/VIP影视.json"
         },
         {
-            "key": "利奥影院",
+            "key": "利奥",
             "name": "🍄利奥",
             "type": 3,
             "api": "csp_XPathMacFilter",
