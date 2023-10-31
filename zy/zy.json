@@ -1,11 +1,30 @@
 {
     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
-   
+    "lives": [
+        {
+            "name": "直播1",
+            "type": 0,
+            "url": "./zy/live.txt",
+            "playerType": 1,
+            "ua": "okhttp/3.12.13",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "直播2",
+            "type": 0,
+            "url": "./zy/tvlive.txt",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
     "sites": [
         {
             "key": "豆豆",
-            "name": "🌕豆豆",
+            "name": "🌕豆瓣 I专用",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -14,19 +33,39 @@
         },
         {
             "key": "csp_WoGG",
-            "name": "👽玩偶.饭",
+            "name": "👽玩偶.4K弹幕.饭",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://111.67.195.139/token_2.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$弹"
+            "changeable": 0,
+            "ext": "http://111.67.195.139/token_2.txt+4k|auto|fhd$$$弹"
         },
         {
             "key": "csp_woggcli",
             "name": "🧚‍俊哥.T4",
             "type": 4,
             "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=99bf714d116842948ca8bcc8aa9fa78e",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "小纸条_cli",
+            "name": "🍃小纸条[俊.T4]",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://111.67.195.139/token_2.txt",
+            "timeout": 30
+        },
+        {
+            "key": "gitcafe_php",
+            "name": "🏑小纸条PHP",
+            "type": 1,
+            "api": "http://tvbox.top/gitcafe.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -47,16 +86,23 @@
             "searchable": 1
         },
         {
-            "key": "91free",
-            "name": "💐91Free",
+            "key": "NanGua",
+            "name": "🎃南瓜|弹幕",
             "type": 3,
-            "jar": "./lib/5.jar",
-            "api": "csp_XBPQ",
+            "api": "csp_NanGua",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "null$$$1",
+            "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/pg.jar"
+        },
+        {
+            "key": "77",
+            "name": "🌰七七",
+            "type": 3,
+            "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./zy/91free.json"
+            "changeable": 1
         },
         {
             "key": "csp_XYQHiker_大大龟",
@@ -70,25 +116,25 @@
             "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
         },
         {
-            "key": "csp_农民",
+            "key": "csp_XYQHiker_农民影视",
             "name": "🌾农民",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/农民.json",
+            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/农民影视.json",
             "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
         },
         {
-            "key": "csp_XYQHiker_兄弟",
+            "key": "csp_XYQHiker_兄弟影视",
             "name": "👨‍👨‍👧兄弟",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/兄弟.json",
+            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/兄弟影视.json",
             "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
         },
         {
@@ -113,24 +159,24 @@
             "ext": "http://rzys.xyz"
         },
         {
-            "key": "VP",
-            "name": "🏵V影",
+            "key": "VIP影视",
+            "name": "🏵VIP影院",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./lib/VP.json"
+            "ext": "./lib/VIP影视.json"
         },
         {
-            "key": "利奥",
+            "key": "利奥影院",
             "name": "🍄利奥",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/利奥.json"
+            "ext": "./lib/利奥影院.json"
         },
         {
             "key": "追忆",
@@ -175,7 +221,7 @@
             "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZTGJxVRTBDqPTqg1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
         },
         {
-            "key": "xml_",
+            "key": "xml_火狐",
             "name": "🍇豪华",
             "type": 1,
             "api": "https://hhzyapi.com/api.php/provide/vod",
@@ -240,7 +286,7 @@
             "ext": "./lib/dadagui.json"
         },
         {
-            "key": "csp_XYQHiker_秋霞",
+            "key": "csp_XYQHiker_秋霞影视",
             "name": "🐎秋霞",
             "type": 3,
             "api": "csp_XYQHiker",
@@ -259,7 +305,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "站名": "剧白白",
+                "站名": "剧白白影视",
                 "主页url": "https://m.jubaibaic.com/",
                 "简介": "mo-ptxs-0px\">&&</p>",
                 "主演": "主演:&&</li>",
@@ -384,48 +430,39 @@
             ]
         },
         {
-            "key": "奇异",
-            "name": "🎈奇艺",
+            "key": "爱奇异",
+            "name": "🎈爱奇艺",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/aiqiyi.js"
         },
         {
             "key": "优酷",
-            "name": "🏮酷酷",
+            "name": "🏮优酷",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/youku.js"
         },
         {
             "key": "腾讯",
-            "name": "🔮腾腾",
+            "name": "🔮腾讯",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/tengxun.js"
         },
         {
             "key": "芒果",
-            "name": "🥝芒芒",
+            "name": "🥝芒果",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/mangguo.js"
         },
         {
             "key": "搜狗",
-            "name": "🎿大狗",
+            "name": "🎿搜狗",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/caigou.js"
-        },
-        {
-            "key": "gitcafe_php",
-            "name": "🏑小纸条PHP",
-            "type": 1,
-            "api": "http://tvbox.top/gitcafe.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "YiSo",
@@ -1162,7 +1199,7 @@
             ]
         }
     ],
-     "doh": [
+    "doh": [
         {
             "name": "Google",
             "url": "https://dns.google/dns-query",
@@ -1284,7 +1321,7 @@
             ]
         },
         {
-            "name": "量子",
+            "name": "量子广告",
             "hosts": [
                 "vip.lz",
                 "hd.lz"
@@ -1294,7 +1331,7 @@
             ]
         },
         {
-            "name": "非凡",
+            "name": "非凡广告",
             "hosts": [
                 "vip.ffzy",
                 "hd.ffzy"
@@ -1304,7 +1341,7 @@
             ]
         },
         {
-            "name": "暴风",
+            "name": "暴风廣告",
             "hosts": [
                 "bfzy"
             ],
@@ -1324,6 +1361,23 @@
             ]
         },
         {
+            "name": "磁力",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "更多",
+                "社 區",
+                "x u u",
+                "最 新",
+                "直 播",
+                "更 新",
+                "社 区",
+                "有 趣"
+                
+            ]
+        },
+        {
             "name": "火山嗅探",
             "hosts": [
                 "huoshan.com"
@@ -1340,6 +1394,62 @@
             "regex": [
                 "is_play_url="
             ]
+        },
+        {
+            "name": "廣告",
+            "hosts": [
+                "."
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
+                "#EXTINF.*?\\s+.*?muguacdn.*?\\.ts\\s+"
+            ]
         }
-
+    ],
+    "flags": [
+        "youku",
+        "优酷",
+        "优 酷",
+        "优酷视频",
+        "qq",
+        "腾讯",
+        "腾 讯",
+        "腾讯视频",
+        "iqiyi",
+        "qiyi",
+        "奇艺",
+        "爱奇艺",
+        "爱 奇 艺",
+        "m1905",
+        "xigua",
+        "letv",
+        "leshi",
+        "乐视",
+        "乐 视",
+        "sohu",
+        "搜狐",
+        "搜 狐",
+        "搜狐视频",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "芒果",
+        "imgo",
+        "芒果TV",
+        "芒 果 T V",
+        "bilibili",
+        "哔 哩",
+        "哔 哩 哔 哩"
+    ],
+    "ads": [
+        "wan.51img1.com",
+        "iqiyi.hbuioo.com",
+        "vip.ffzyad.com",
+        "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
+    ]
 }
