@@ -3,7 +3,7 @@
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "lives": [
         {
-            "name": "直播1",
+            "name": "live",
             "type": 0,
             "url": "./zy/live.txt",
             "playerType": 1,
@@ -12,7 +12,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "直播2",
+            "name": "tv",
             "type": 0,
             "url": "./zy/tvlive.txt",
             "playerType": 1,
