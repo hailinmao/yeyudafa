@@ -3,7 +3,7 @@
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "lives": [
         {
-            "name": "直播1",
+            "name": "live",
             "type": 0,
             "url": "./zy/live.txt",
             "playerType": 1,
@@ -12,7 +12,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "直播2",
+            "name": "tv",
             "type": 0,
             "url": "./zy/tvlive.txt",
             "playerType": 1,
@@ -89,7 +89,7 @@
             "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
         },
         {
-            "key": "csp_XYQHiker_农民影视",
+            "key": "csp_农民",
             "name": "🌾农民",
             "type": 3,
             "api": "csp_XYQHiker",
@@ -100,7 +100,7 @@
             "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
         },
         {
-            "key": "csp_XYQHiker_兄弟影视",
+            "key": "csp_XYQHiker_兄弟",
             "name": "👨‍👨‍👧兄弟",
             "type": 3,
             "api": "csp_XYQHiker",
@@ -132,8 +132,8 @@
             "ext": "http://rzys.xyz"
         },
         {
-            "key": "VIP影视",
-            "name": "🏵VIP影院",
+            "key": "VP",
+            "name": "🏵V影院",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -142,7 +142,7 @@
             "ext": "./lib/VIP影视.json"
         },
         {
-            "key": "利奥影院",
+            "key": "利奥",
             "name": "🍄利奥",
             "type": 3,
             "api": "csp_XPathMacFilter",
@@ -278,7 +278,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "站名": "剧白白影视",
+                "站名": "剧白白",
                 "主页url": "https://m.jubaibaic.com/",
                 "简介": "mo-ptxs-0px\">&&</p>",
                 "主演": "主演:&&</li>",
@@ -403,8 +403,8 @@
             ]
         },
         {
-            "key": "爱奇异",
-            "name": "🎈爱奇艺",
+            "key": "奇异",
+            "name": "🎈奇艺",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/aiqiyi.js"
