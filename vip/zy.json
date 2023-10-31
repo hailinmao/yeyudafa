@@ -24,7 +24,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🌕豆瓣",
+            "name": "🌕豆豆",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -107,7 +107,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/兄弟影视.json",
+            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/兄弟.json",
             "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
         },
         {
@@ -139,7 +139,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./lib/VIP影视.json"
+            "ext": "./lib/VP影视.json"
         },
         {
             "key": "利奥",
@@ -149,7 +149,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/利奥影院.json"
+            "ext": "./lib/利奥.json"
         },
         {
             "key": "追忆",
@@ -259,7 +259,7 @@
             "ext": "./lib/dadagui.json"
         },
         {
-            "key": "csp_XYQHiker_秋霞影视",
+            "key": "csp_XYQHiker_秋霞",
             "name": "🐎秋霞",
             "type": 3,
             "api": "csp_XYQHiker",
