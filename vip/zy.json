@@ -523,17 +523,17 @@
             "url": "Web"
         },
         {
-            "name": "解析1",
+            "name": "解1",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url="
         },
         {
-            "name": "️解析2",
+            "name": "️解2",
             "type": 0,
             "url": "https://www.pangujiexi.com/pangu/?url="
         },
         {
-            "name": "解析3",
+            "name": "解3",
             "type": 1,
             "url": "https://jxjson.cf/json.php?url=",
             "ext": {
@@ -544,12 +544,12 @@
             }
         },
         {
-            "name": "解析4",
+            "name": "解4",
             "type": 1,
             "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
         },
         {
-            "name": "解析5",
+            "name": "解5",
             "type": 1,
             "url": "https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=zcGXEL8jGntDoi3vSR&url=",
             "ext": {
@@ -559,7 +559,7 @@
             }
         },
         {
-            "name": "解析6",
+            "name": "解6",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
             "ext": {
@@ -589,7 +589,7 @@
             }
         },
         {
-            "name": "解析7",
+            "name": "解7",
             "type": 0,
             "url": "https://jx.bozrc.com:4433/player/?url=",
             "ext": {
@@ -618,7 +618,7 @@
             }
         },
         {
-            "name": "解析8",
+            "name": "解8",
             "type": 1,
             "url": "http://110.42.2.247:880/analysis/json/?uid=2255&my=bcdkloqxzEFGPRT168&format=json&url=",
             "ext": {
@@ -647,7 +647,7 @@
             }
         },
         {
-            "name": "解析9",
+            "name": "解9",
             "type": 0,
             "url": "https://vip.lianfaka.com/vip/?url=",
             "ext": {
@@ -676,7 +676,7 @@
             }
         },
         {
-            "name": "解析10",
+            "name": "解10",
             "type": 0,
             "url": "https://jx.m3u8.tv/jiexi/?url=",
             "ext": {
@@ -703,7 +703,7 @@
             }
         },
         {
-            "name": "解析11",
+            "name": "解11",
             "type": 0,
             "url": "https://www.ckplayer.vip/jiexi/?url=",
             "ext": {
@@ -730,7 +730,7 @@
             }
         },
         {
-            "name": "解析12",
+            "name": "解12",
             "type": 0,
             "url": "https://www.8090g.cn/?url=",
             "ext": {
@@ -757,7 +757,7 @@
             }
         },
         {
-            "name": "解析13",
+            "name": "解13",
             "type": 0,
             "url": "https://www.playm3u8.cn/jiexi.php?url=",
             "ext": {
@@ -784,7 +784,7 @@
             }
         },
         {
-            "name": "解析14",
+            "name": "解14",
             "type": 1,
             "url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=",
             "ext": {
@@ -804,7 +804,7 @@
             }
         },
         {
-            "name": "解析15",
+            "name": "解15",
             "type": 1,
             "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
             "ext": {
@@ -833,7 +833,7 @@
             }
         },
         {
-            "name": "解析16",
+            "name": "解16",
             "type": 1,
             "url": "http://api.huohua.vip/api/?key=6qwYWYpe4mSaPhFvSw&url=",
             "ext": {
@@ -862,7 +862,7 @@
             }
         },
         {
-            "name": "解析17",
+            "name": "解17",
             "type": 1,
             "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
             "ext": {
@@ -891,7 +891,7 @@
             }
         },
         {
-            "name": "解析18",
+            "name": "解18",
             "type": 1,
             "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
             "ext": {
@@ -920,7 +920,7 @@
             }
         },
         {
-            "name": "解析19",
+            "name": "解19",
             "type": 1,
             "url": "http://119.91.123.253:1234/Api/cs.php?url=2449&my=acfgikquvzFGJRW459&url=",
             "ext": {
@@ -948,22 +948,22 @@
             }
         },
         {
-            "name": "嗅探1",
+            "name": "嗅1",
             "type": 0,
             "url": "https://jx.haokantv.cyou/player/?url="
         },
         {
-            "name": "嗅探2",
+            "name": "嗅2",
             "type": 0,
             "url": "http://bfqjc.xwyxpw.cn/?url="
         },
         {
-            "name": "嗅探3",
+            "name": "嗅3",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
         },
         {
-            "name": "嗅探4",
+            "name": "嗅4",
             "type": 0,
             "url": "https://jx.4kdv.com/?url=",
             "ext": {
@@ -994,7 +994,7 @@
             }
         },
         {
-            "name": "嗅探5",
+            "name": "嗅5",
             "type": 0,
             "url": "https://jx.ppjbk.cn/?url=",
             "ext": {
@@ -1004,7 +1004,7 @@
             }
         },
         {
-            "name": "嗅探6",
+            "name": "嗅6",
             "type": 0,
             "url": "http://www.miaoys.cc/vip/?url="
         }
