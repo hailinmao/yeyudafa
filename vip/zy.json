@@ -96,7 +96,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/农民影视.json",
+            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/农民.json",
             "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
         },
         {
@@ -133,13 +133,13 @@
         },
         {
             "key": "VP",
-            "name": "🏵V影院",
+            "name": "🏵V影",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./lib/VP影视.json"
+            "ext": "./lib/VP.json"
         },
         {
             "key": "利奥",
