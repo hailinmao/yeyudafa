@@ -298,7 +298,7 @@
         },
         {
             "key": "csp_XBPQ_jubaibai",
-            "name": "🐍白蛇",
+            "name": "🐍白白",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -430,8 +430,8 @@
             ]
         },
         {
-            "key": "爱奇异",
-            "name": "🎈爱奇艺",
+            "key": "爱奇",
+            "name": "🎈爱奇",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/aiqiyi.js"
