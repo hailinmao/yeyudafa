@@ -1125,17 +1125,6 @@
             "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/电影牛影院.json"
         },
         {
-            "key": "csp_XYQHiker素白白",
-            "name": "🐣 素白白 ",
-            "type": 3,
-            "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar;md5;eabf452425cf0176d395c553c8bc3a54",
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/素白白.json"
-        },
-        {
             "key": "蓝光影院",
             "name": "🐠 蓝光影院 ",
             "type": 3,
