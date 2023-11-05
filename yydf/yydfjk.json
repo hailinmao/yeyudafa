@@ -42,7 +42,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/market.json",
+      "ext": "http://111.67.195.139/yydf/lib/market.json",
       "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fm商店.jar"
     },
     {
