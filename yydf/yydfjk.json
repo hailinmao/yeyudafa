@@ -153,7 +153,7 @@
       "name": "🔥短剧网[影视]_HK",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -808,7 +808,7 @@
       "key": "csp_Zhaozy",
       "name": "📀找资源♻️",
       "type": 3,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar",
       "api": "csp_Zhaozy",
       "playerType": 1,
       "searchable": 1,
@@ -820,7 +820,7 @@
       "key": "csp_AliPS",
       "name": "📀喵狸盘搜♻️",
       "type": 3,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar",
       "api": "csp_AliPS",
       "playerType": 1,
       "searchable": 1,
@@ -832,7 +832,7 @@
       "key": "csp_Yisou",
       "name": "📀易搜♻️",
       "type": 3,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar",
       "api": "csp_Yisou",
       "playerType": 1,
       "searchable": 1,
@@ -844,7 +844,7 @@
       "key": "csp_Upyunso",
       "name": "📀UP云搜♻️",
       "type": 3,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar",
       "api": "csp_Upyunso",
       "playerType": 1,
       "searchable": 1,
@@ -856,7 +856,7 @@
       "key": "广播迷",
       "name": "♻️广播",
       "type": 3,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xbpq.jar",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xbpq.jar",
       "api": "csp_XBPQ",
       "ext": {
         "分类": "央视$zy#北京$bj#上海$sh#天津$tj#重庆$cq#广东$gd#四川$sc#山东$sd#江苏$js#浙江$zj#河南$henan#河北$hebei#辽宁$ln#安徽$ah#湖南$hn#湖北$hubei#福建$fj#广西$gx#山西$sxi#云南$yn#贵州$gz#西藏$xz#宁夏$nx#海南$hainan#新疆$xj#甘肃$gs#青海$qh#黑龙江$hlj#内蒙古$nmg#港澳$hk",
@@ -894,7 +894,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/xyq.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar"
     },
     {
       "key": "csp_Mp4Mov",
@@ -904,7 +904,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar"
     },
     {
       "key": "csp_New6v",
@@ -915,7 +915,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.xb6v.com",
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar"
     },
     {
       "key": "csp_SeedHub",
@@ -926,7 +926,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar"
     },
     {
       "key": "csp_KubaCL",
@@ -937,7 +937,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar"
     },
     {
       "key": "csp_MeijuTT",
@@ -948,7 +948,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar"
     },
     {
       "key": "csp_MeijuMi",
@@ -959,7 +959,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar"
     },
     {
       "key": "csp_BLSGod",
@@ -970,7 +970,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar"
     },
     {
       "key": "csp_Xunlei8",
@@ -981,7 +981,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar"
     },
     {
       "key": "csp_XYQHikerAL_4KHDR",
@@ -993,7 +993,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/4KHDR.json",
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_电影港",
@@ -1004,7 +1004,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/电影港磁力.json",
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_BT天堂",
@@ -1015,7 +1015,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/BT天堂.json",
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_极影网",
@@ -1026,7 +1026,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/极影网.json",
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_高清MP4",
@@ -1037,7 +1037,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/高清MP4.json",
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_蚂蚁4K",
@@ -1048,7 +1048,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/蚂蚁4K.json",
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar"
     },
     {
       "key": "快车资源",
