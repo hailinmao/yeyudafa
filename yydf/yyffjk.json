@@ -2586,7 +2586,8 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "api": "csp_YingShi"
+            "api": "csp_YingShi",
+            "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/pg.jar;md5;519b1b57fb7ebee6462ae620ba83dc4c"
         },
         {
             "key": "drpy_js_97tvs",
