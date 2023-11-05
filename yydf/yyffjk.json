@@ -44,7 +44,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/market.json"
+      "ext": "http://111.67.195.139/yydf/lib/market.json"
     },
     {
       "key": "csp_Alistxy",
@@ -53,7 +53,7 @@
       "api": "csp_AListxy",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/Alistxy.json"
+      "ext": "http://111.67.195.139/yydf/lib/Alistxy.json"
     },
     {
       "key": "FirstAid",
