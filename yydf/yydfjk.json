@@ -47,8 +47,11 @@
     },
     {
       "key": "Wogg",
-      "name": "♻️阿里|玩偶哥哥",
+      "name": "👽玩偶.PG",
       "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -59,8 +62,11 @@
     },
     {
       "key": "Wobg",
-      "name": "♻️阿里|玩偶表哥",
+      "name": "👽玩偶表哥.PG",
       "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1.597
