@@ -39,7 +39,7 @@
     },
     {
       "key": "應用商店",
-      "name": "🍱 应用商店 ",
+      "name": "🍱应用商店 ",
       "type": 3,
       "api": "csp_Market",
       "searchable": 0,
@@ -57,7 +57,7 @@
     },
     {
       "key": "FirstAid",
-      "name": "🚑 急救知识 ",
+      "name": "🚑急救知识 ",
       "type": 3,
       "api": "csp_FirstAid",
       "searchable": 0,
@@ -70,7 +70,7 @@
     },
     {
       "key": "一起看 ",
-      "name": "🍣 一起 ",
+      "name": "🍣一起 ",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -79,7 +79,7 @@
     },
     {
       "key": "csp_CandyMuj_hjtv",
-      "name": "💖 韩剧TV",
+      "name": "💖韩剧TV",
       "type": 3,
       "api": "csp_CandyMuj_hjtv",
       "searchable": 1,
@@ -88,7 +88,7 @@
     },
     {
       "key": "moviefish",
-      "name": "✨ 星辰影视",
+      "name": "✨星辰影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -98,7 +98,7 @@
     },
     {
       "key": "csp_woggcli",
-      "name": "👽 玩偶·T4 ",
+      "name": "👽玩偶·T4 ",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba",
       "searchable": 1,
@@ -106,8 +106,32 @@
       "filterable": 1
     },
     {
+      "key": "Wogg",
+      "name": "👽玩偶.PG",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/pg.jar",
+      "api": "csp_Wogg",
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$https://wogg.xyz/"
+    },
+    {
+      "key": "Wobg",
+      "name": "👽玩偶表哥.PG",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/pg.jar",
+      "api": "csp_Wobg",
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://wobge.run.goorm.io"
+    },
+    {
       "key": "csp_WoGG",
-      "name": "👽 玩偶·饭 ",
+      "name": "👽玩偶·饭 ",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -117,7 +141,7 @@
     },
     {
       "key": "csp_XYQHikerAL_玩偶哥哥",
-      "name": "👽 玩偶·香 ",
+      "name": "👽玩偶·香 ",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "playerType": 1,
@@ -129,7 +153,7 @@
     },
     {
       "key": "小纸条_cli",
-      "name": "📝 小纸条·T4 ",
+      "name": "📝小纸条·T4 ",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
       "searchable": 1,
