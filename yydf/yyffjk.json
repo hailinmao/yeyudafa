@@ -1055,18 +1055,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_XYQHiker_F7好看剧",
-      "name": "⭐ 好看 ",
-      "type": 3,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/xyq.jar",
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/aikanyngyuan.json"
-    },
+    },    
     {
       "key": "csp_XYQHiker_爱看影视",
       "name": "✨ 爱看 ",
