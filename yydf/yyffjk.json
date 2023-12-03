@@ -57,10 +57,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "categories": [
-                "电视剧",
                 "电影",
+                "电视剧",
                 "动漫",
-                 "综艺"
+                "综艺"
             ]
         },
         {
